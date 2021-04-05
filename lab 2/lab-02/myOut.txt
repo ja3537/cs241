@@ -1,0 +1,14 @@
+1. The Three Laws of Robotics: (5,27)
+2. First: A robot may not injure a human being or, through inaction, (12,65)
+3.    allow a human being to come to harm; (8,39)
+4. Second: A robot must obey the orders given it by human beings (12,61)
+5.    except where such orders would conflict with the First Law; (10,62)
+6. Third: A robot must protect its own existence as long as (11,56)
+7. such protection does not conflict with the First or Second Law; (11,63)
+8. The Zeroth Law: A robot may not harm humanity, or, by inaction, (12,63)
+9.     allow humanity to come to harm. (6,35)
+10.     -- Isaac Asimov, I, Robot (5,29)
+There are 10 lines, 92 words, and 500 characters.
+Line 10 has the fewest words with 5
+Line 2 has the most characters with 65
+

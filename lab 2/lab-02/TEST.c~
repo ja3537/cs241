@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+
+void main(void)
+{
+  char c;
+  int cc=0;
+
+  while ((c=getchar())!=EOF)
+    {
+      ++cc;
+      printf("%d.", cc);
+      putchar(c);
+
+    }
+      

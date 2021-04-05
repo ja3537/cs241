@@ -1,0 +1,10 @@
+0.1.The Three Laws of Robotics:
+2.First: A robot may not injure a human being or, through inaction,
+3.   allow a human being to come to harm;
+4.Second: A robot must obey the orders given it by human beings
+5.   except where such orders would conflict with the First Law;
+6.Third: A robot must protect its own existence as long as
+7.such protection does not conflict with the First or Second Law;
+8.The Zeroth Law: A robot may not harm humanity, or, by inaction,
+9.    allow humanity to come to harm.
+10.    -- Isaac Asimov, I, Robot
